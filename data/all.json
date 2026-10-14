@@ -1,0 +1,1298 @@
+{
+  "voc": [
+    {
+      "D_word": "die Leute (PI.)",
+      "F_word": "les gens"
+    },
+    {
+      "D_word": "Baie Person, en",
+      "F_word": "la personne, le personnage"
+    },
+    {
+      "D_word": "persönlich",
+      "F_word": "personnel"
+    },
+    {
+      "D_word": "die Persönlichkeit, en",
+      "F_word": "la personnalite"
+    },
+    {
+      "D_word": "das Fräulein",
+      "F_word": "la demoiselle, mademoiselle"
+    },
+    {
+      "D_word": "das Mädchen",
+      "F_word": "la jeune fille, la fillette"
+    },
+    {
+      "D_word": "der Herr, n, en 1.",
+      "F_word": "le monsieur 2. le seigneur, le maitre"
+    },
+    {
+      "D_word": "das Alter, - 1.lläge 2.",
+      "F_word": "la vieillesse"
+    },
+    {
+      "D_word": "im Alter von 41 Jahren al'äge",
+      "F_word": "de 41 ans"
+    },
+    {
+      "D_word": "erwachsen",
+      "F_word": "adulte"
+    },
+    {
+      "D_word": "ein Erwachsener",
+      "F_word": "un adulte ’"
+    },
+    {
+      "D_word": "das Leben",
+      "F_word": "la vie SR"
+    },
+    {
+      "D_word": "lebendig",
+      "F_word": "vivant"
+    },
+    {
+      "D_word": "werden wird, wurde, ist geworden",
+      "F_word": "devenir E"
+    },
+    {
+      "D_word": "sterben stirbt, starb, ist gestorben",
+      "F_word": "mourir (de) E"
+    },
+    {
+      "D_word": "der Tod, /",
+      "F_word": "la mort Bi"
+    },
+    {
+      "D_word": "töten",
+      "F_word": "tuer a"
+    },
+    {
+      "D_word": "heißen heißt, hieß, hat geheißen",
+      "F_word": "s'appeler en"
+    },
+    {
+      "D_word": "der Name, ns, n",
+      "F_word": "le nom E"
+    },
+    {
+      "D_word": "der Vorname, ns, n",
+      "F_word": "le prenom ="
+    },
+    {
+      "D_word": "die Liste, n",
+      "F_word": "la liste EN"
+    },
+    {
+      "D_word": "jemand (niemand)",
+      "F_word": "quelqu'un (ne... personne)"
+    },
+    {
+      "D_word": "die Hausfrau, en 2 reagpre 2 Taltresse",
+      "F_word": "de ma"
+    },
+    {
+      "D_word": "die Familie, n",
+      "F_word": "la famille"
+    },
+    {
+      "D_word": "die Eltern (PI.)",
+      "F_word": "les parents"
+    },
+    {
+      "D_word": "die Mutter, ”",
+      "F_word": "la mere"
+    },
+    {
+      "D_word": "der Vater, ”",
+      "F_word": "le pere"
+    },
+    {
+      "D_word": "das Baby, s (prononc. angl.)",
+      "F_word": "le bebe&"
+    },
+    {
+      "D_word": "die Tochter, ”",
+      "F_word": "la fille"
+    },
+    {
+      "D_word": "der Sohn, \"e",
+      "F_word": "le füls"
+    },
+    {
+      "D_word": "die Geschwister (PI.)",
+      "F_word": "les fröres et soeurs"
+    },
+    {
+      "D_word": "die Schwester, n",
+      "F_word": "la soeur Be"
+    },
+    {
+      "D_word": "der Zwilling, ® Io jumeau",
+      "F_word": "la jumelie"
+    },
+    {
+      "D_word": "ie Großmutter, °",
+      "F_word": "la grand-möre"
+    },
+    {
+      "D_word": "der Großvater, °",
+      "F_word": "le grand-pöre ri"
+    },
+    {
+      "D_word": "ie Großeltern (PI.)",
+      "F_word": "les grands-parents j"
+    },
+    {
+      "D_word": "der Enkel, - / die -in",
+      "F_word": "le petit-fils, la Petite-fille 2"
+    },
+    {
+      "D_word": "Herr Lehmann ist ein entfernter M. Lehmann est",
+      "F_word": "un parent 6foj"
+    },
+    {
+      "D_word": "die",
+      "F_word": "Tante, n la tante"
+    },
+    {
+      "D_word": "der Onkel",
+      "F_word": "l'oncle"
+    },
+    {
+      "D_word": "die Kusine, n (die",
+      "F_word": "Cousine, n) la cousine"
+    },
+    {
+      "D_word": "der Vetter, n (der",
+      "F_word": "Cousin, s) le cousin"
+    },
+    {
+      "D_word": "das Ehepaar, e",
+      "F_word": "le couple (marie)"
+    },
+    {
+      "D_word": "Sie hat einen Jugendfreund geheiratet. Elle a &pouse",
+      "F_word": "un ami d’enfance."
+    },
+    {
+      "D_word": "eine verheiratete Frau",
+      "F_word": "une femme mariee"
+    },
+    {
+      "D_word": "die Erziehung, en",
+      "F_word": "l'education E"
+    },
+    {
+      "D_word": "die Adoption, en",
+      "F_word": "l'adoption a"
+    },
+    {
+      "D_word": "ins Geschlecht. er",
+      "F_word": "le sexe, le genre"
+    },
+    {
+      "D_word": "die Nichte, n",
+      "F_word": "la niöce"
+    },
+    {
+      "D_word": "der Nefte,n,n",
+      "F_word": "le neveu"
+    },
+    {
+      "D_word": "die Schwiegereltern (PI.)",
+      "F_word": "les beaux-parents"
+    },
+    {
+      "D_word": "der Schwiegervater",
+      "F_word": "le beau-pere"
+    },
+    {
+      "D_word": "die Schwiegermutter",
+      "F_word": "la belle-möre"
+    },
+    {
+      "D_word": "der Schwager, /",
+      "F_word": "le beau-fröre, la belle-soeur"
+    },
+    {
+      "D_word": "das Familienmitglied, er",
+      "F_word": "le membre de la famille"
+    },
+    {
+      "D_word": "die Verwandschaft, /",
+      "F_word": "la parente"
+    },
+    {
+      "D_word": "die Tagesmutter",
+      "F_word": "la maman de jour"
+    },
+    {
+      "D_word": "der Erbe, n, n / die Erbin",
+      "F_word": "l'heritier / -iere"
+    },
+    {
+      "D_word": "der Charakter, Charaktere",
+      "F_word": "le caractere"
+    },
+    {
+      "D_word": "geduldig (un-)",
+      "F_word": "patient }"
+    },
+    {
+      "D_word": "beruhigen tranquilliser",
+      "F_word": "rassurer, Calmer 3"
+    },
+    {
+      "D_word": "still",
+      "F_word": "silencieux, tranquille"
+    },
+    {
+      "D_word": "bescheiden (un-)",
+      "F_word": "modeste"
+    },
+    {
+      "D_word": "fleißig appliqus, z&le",
+      "F_word": "travailleur E"
+    },
+    {
+      "D_word": "faul",
+      "F_word": "paresseux ="
+    },
+    {
+      "D_word": "die Faulheit, /",
+      "F_word": "la paresse \\"
+    },
+    {
+      "D_word": "neugierig",
+      "F_word": "curieux, avide de savoir 2"
+    },
+    {
+      "D_word": "der Ernst, /",
+      "F_word": "le serieux"
+    },
+    {
+      "D_word": "selbstbewusst conscient",
+      "F_word": "de sa valeur, sür de soi i"
+    },
+    {
+      "D_word": "Auf diese Rede wäre ich nicht stolz. Je ne serais pas fier",
+      "F_word": "de ce discours. E"
+    },
+    {
+      "D_word": "der Stolz, /",
+      "F_word": "la fierte i"
+    },
+    {
+      "D_word": "der Mut. /",
+      "F_word": "le courage"
+    },
+    {
+      "D_word": "tapfer",
+      "F_word": "courageux, brave"
+    },
+    {
+      "D_word": "freundlich (un-)",
+      "F_word": "aimable, amical"
+    },
+    {
+      "D_word": "fröhlich",
+      "F_word": "joyeux, gai"
+    },
+    {
+      "D_word": "nett",
+      "F_word": "gentil, aimable, charmant"
+    },
+    {
+      "D_word": "Sei so nett und schließ die Tür. Sois",
+      "F_word": "gentil et ferme la porte."
+    },
+    {
+      "D_word": "lieb 1.cher 2.",
+      "F_word": "gentil"
+    },
+    {
+      "D_word": "brav",
+      "F_word": "gentil, sage"
+    },
+    {
+      "D_word": "Ihr seid wirklich zu allem fähig Vous ätes vraiment capables",
+      "F_word": "de tout."
+    },
+    {
+      "D_word": "vertrauen (+ D)",
+      "F_word": "avoir confiance (en)"
+    },
+    {
+      "D_word": "das Vertrauen, / (zu+D)",
+      "F_word": "la confiance (en)"
+    },
+    {
+      "D_word": "das Misstrauen, /",
+      "F_word": "la mefiance"
+    },
+    {
+      "D_word": "neidisch (auf + A)",
+      "F_word": "envieux, jaloux"
+    },
+    {
+      "D_word": "a - könnte neidisch aut dich werden",
+      "F_word": "du On Pourrait tenvier"
+    },
+    {
+      "D_word": "a er mer Glück",
+      "F_word": "chance % I oa"
+    },
+    {
+      "D_word": "sövöre",
+      "F_word": "Strict E"
+    },
+    {
+      "D_word": "die Härte, /",
+      "F_word": "la duret& /"
+    },
+    {
+      "D_word": "der Zug, ©",
+      "F_word": "le trait (fig.) ge"
+    },
+    {
+      "D_word": "tn sichtszug",
+      "F_word": "le trait de caractere, du Visage ge"
+    },
+    {
+      "D_word": "das Gleichgewicht, /",
+      "F_word": "l'equilibre 4"
+    },
+    {
+      "D_word": "das Wesen",
+      "F_word": "l'Stre, llessence, la nature"
+    },
+    {
+      "D_word": "Le ätre",
+      "F_word": "vivant ar"
+    },
+    {
+      "D_word": "I der Fleiß",
+      "F_word": "le zele, l’assiduite „eh"
+    },
+    {
+      "D_word": "die Hemmung, en",
+      "F_word": "la gene, l'inhibition, le Scrupule E"
+    },
+    {
+      "D_word": "ieksichtsl",
+      "F_word": "os."
+    },
+    {
+      "D_word": "oo.",
+      "F_word": "la qualite, le trait de i"
+    },
+    {
+      "D_word": "imbu",
+      "F_word": "de soi-m&me 4"
+    },
+    {
+      "D_word": "ö le",
+      "F_word": "la cräneur / -euse"
+    },
+    {
+      "D_word": "verschl",
+      "F_word": "ossen UnIcatif (Perso"
+    },
+    {
+      "D_word": "das Verhalten, /",
+      "F_word": "le comportement"
+    },
+    {
+      "D_word": "die Haltung, en l’attitude",
+      "F_word": "la contenance"
+    },
+    {
+      "D_word": "die Reaktion, en",
+      "F_word": "la reaction"
+    },
+    {
+      "D_word": "zurückhaltend r6serv6, qui a",
+      "F_word": "de la retenu®, diserel"
+    },
+    {
+      "D_word": "wu mi der Gemessen haber",
+      "F_word": "avoir ac. sur la conschenoe"
+    },
+    {
+      "D_word": "ein scmechtes Gewissen haber",
+      "F_word": "avoir mauvaise conschencge"
+    },
+    {
+      "D_word": "heimlich",
+      "F_word": "secret, en cachette, en secret"
+    },
+    {
+      "D_word": "grob",
+      "F_word": "grossier"
+    },
+    {
+      "D_word": "lächerlich",
+      "F_word": "ridicule"
+    },
+    {
+      "D_word": "grotesk",
+      "F_word": "grotesque"
+    },
+    {
+      "D_word": "sich schämen (für + A od. +G)",
+      "F_word": "avoir honte (de)"
+    },
+    {
+      "D_word": "Du solltest dich für diesen Unsinn (dieses Tu devrais",
+      "F_word": "avoir honte de cette b&tise"
+    },
+    {
+      "D_word": "die Scham, /",
+      "F_word": "la honte, la pudeur"
+    },
+    {
+      "D_word": "das Risiko, Risiken",
+      "F_word": "le risque"
+    },
+    {
+      "D_word": "Können wir so große Risiken auf uns Pouvons-nous prendre",
+      "F_word": "de tels"
+    },
+    {
+      "D_word": "wagen",
+      "F_word": "oser, risquer"
+    },
+    {
+      "D_word": "ich wage nicht zu antworten Je n'",
+      "F_word": "ose pas r&pondre."
+    },
+    {
+      "D_word": "T ee dir Giüch Je te souhalte borne",
+      "F_word": "chance u"
+    },
+    {
+      "D_word": "pt Wunsch, e",
+      "F_word": "le desir, le voeu, le souhait"
+    },
+    {
+      "D_word": "bsichtlich (un-)",
+      "F_word": "intentionnel, exprös"
+    },
+    {
+      "D_word": "vorhaben (+ A)",
+      "F_word": "avoir intention (de), avoir des"
+    },
+    {
+      "D_word": "Projekt, e",
+      "F_word": "le projet"
+    },
+    {
+      "D_word": "der",
+      "F_word": "Plan, e le plan, le projet"
+    },
+    {
+      "D_word": "planen",
+      "F_word": "projeter, planifier"
+    },
+    {
+      "D_word": "die",
+      "F_word": "Planung, en la planification"
+    },
+    {
+      "D_word": "beschließen beschließt, beschl",
+      "F_word": "oss, hat decider"
+    },
+    {
+      "D_word": "beschl",
+      "F_word": "ossen"
+    },
+    {
+      "D_word": "der Beschluss, \"e",
+      "F_word": "la decision"
+    },
+    {
+      "D_word": "einen Beschluss fassen prendre",
+      "F_word": "une decision"
+    },
+    {
+      "D_word": "E entschl",
+      "F_word": "oss sich, hat sich entschlossen"
+    },
+    {
+      "D_word": "der Entschluss, \"e",
+      "F_word": "la decision (difficile), la r&solution"
+    },
+    {
+      "D_word": "einen mutigen Entschluss fassen prendre",
+      "F_word": "une decision courageuse"
+    },
+    {
+      "D_word": "entschieden. P",
+      "F_word": "projet."
+    },
+    {
+      "D_word": "Das zweite Tor entschied die Partie.",
+      "F_word": "Le deuxiöme but döcida de la partie."
+    },
+    {
+      "D_word": "handeln",
+      "F_word": "agir BE"
+    },
+    {
+      "D_word": "sich handeln (um + A) s'’",
+      "F_word": "agir (de) 2"
+    },
+    {
+      "D_word": "Es handelt sich um etwas Neues. II s'agit",
+      "F_word": "de quelque chose de nouveau."
+    },
+    {
+      "D_word": "die Handlung, en",
+      "F_word": "l'’action"
+    },
+    {
+      "D_word": "finden findet, fand, hat gefunden",
+      "F_word": "trouver"
+    },
+    {
+      "D_word": "Tee machen (kochen)",
+      "F_word": "faire du the"
+    },
+    {
+      "D_word": "Das macht ihn stolz. Ga",
+      "F_word": "le rend fier."
+    },
+    {
+      "D_word": "die Tat, en",
+      "F_word": "l'action, l'’acte, l'exploit"
+    },
+    {
+      "D_word": "i in der Tat effectivement, en",
+      "F_word": "effet"
+    },
+    {
+      "D_word": "der Täter, - (-in)",
+      "F_word": "l'auteur, le coupable (crime)"
+    },
+    {
+      "D_word": "die Tätigkeit, en",
+      "F_word": "l'activite"
+    },
+    {
+      "D_word": "eine Tätigkeit aus/üben exercer",
+      "F_word": "une activit&"
+    },
+    {
+      "D_word": "sich) peschl one Woche beschäftigt.",
+      "F_word": "Le cas nous a ) ae i"
+    },
+    {
+      "D_word": "sich kümmert (um +A) a soucier",
+      "F_word": "S'occuper (de)"
+    },
+    {
+      "D_word": "lassen lässt, ließ, hat gelassen",
+      "F_word": "laisser, faire (faire qc)"
+    },
+    {
+      "D_word": "ecrire",
+      "F_word": "la lettre.) (etai Tasse"
+    },
+    {
+      "D_word": "Ich bereite mich auf die Prüfung vor Je me prepare A",
+      "F_word": "l'examen."
+    },
+    {
+      "D_word": "die Vorbereitung, ©N",
+      "F_word": "la preparation"
+    },
+    {
+      "D_word": "der Versuch, ©",
+      "F_word": "l'essai, la tentative"
+    },
+    {
+      "D_word": "die Probe, N 1. llessai 2.",
+      "F_word": "la repetition (theätre"
+    },
+    {
+      "D_word": "der Erfolg, ©",
+      "F_word": "le succ&s h"
+    },
+    {
+      "D_word": "Das war eine gelungene Überraschung. C'etait",
+      "F_word": "une surprise reussie."
+    },
+    {
+      "D_word": "Der Start ist gelungen.",
+      "F_word": "Le depart est un suco®S"
+    },
+    {
+      "D_word": "Die Fot",
+      "F_word": "os sind mir misslungen- J'ai rate mes photoS"
+    },
+    {
+      "D_word": "ein misslungener Kuchen",
+      "F_word": "un gäteau rate se"
+    },
+    {
+      "D_word": "jous avons atteint",
+      "F_word": "les gens."
+    },
+    {
+      "D_word": "en kann diesen Wunsch",
+      "F_word": "remplir, satisfaire (voeu, exigence)"
+    },
+    {
+      "D_word": "Sie hat das Buch umsonst bekommen Elle a regu",
+      "F_word": "le livre gratuitement."
+    },
+    {
+      "D_word": "Er muss dieses Jahr auf (die) Ferien verzichten. Cette annee, il doit renoncer",
+      "F_word": "aux vacances."
+    },
+    {
+      "D_word": "hindern empecher (qn",
+      "F_word": "de faire qc)"
+    },
+    {
+      "D_word": "Man konnte den Unfall nicht verhindern On ne put eviter",
+      "F_word": "l'accident"
+    },
+    {
+      "D_word": "die Schwierigkeit, en",
+      "F_word": "la difficulte"
+    },
+    {
+      "D_word": "die Methode, n",
+      "F_word": "la methode"
+    },
+    {
+      "D_word": "das Mittel",
+      "F_word": "le moyen"
+    },
+    {
+      "D_word": "wirken (auf + A) produire gs",
+      "F_word": "l'effet, agir (sur)"
+    },
+    {
+      "D_word": "Ihre Nähe wirkte beruhigend auf mich. Sa proximite avait",
+      "F_word": "un effet rassurant sur"
+    },
+    {
+      "D_word": "die Wirkung, en",
+      "F_word": "l'effet"
+    },
+    {
+      "D_word": "frei ee goriep Hi",
+      "F_word": "actionner 2 4"
+    },
+    {
+      "D_word": "Sport treiben",
+      "F_word": "faire du pi) ."
+    },
+    {
+      "D_word": "sich) ein/setzen (sich engagieren) (5)",
+      "F_word": "engager (pou"
+    },
+    {
+      "D_word": "sorgfältig",
+      "F_word": "soigneux, soii"
+    },
+    {
+      "D_word": "einen",
+      "F_word": "Plan ausführen executer un plan"
+    },
+    {
+      "D_word": "eine Absicht verwirklichen (realisieren) realiser",
+      "F_word": "une Intention"
+    },
+    {
+      "D_word": "greifen greift, griff, hat gegriffen tendre",
+      "F_word": "la main (vers), saisir"
+    },
+    {
+      "D_word": "Sie griff nach dem Buch Elle tendit",
+      "F_word": "la main vers le live"
+    },
+    {
+      "D_word": "einen Beruf, das Wort, ein Buch ergreifen choisir",
+      "F_word": "un metier, prendre la parole"
+    },
+    {
+      "D_word": "saisir",
+      "F_word": "un livre"
+    },
+    {
+      "D_word": "der Griff, e",
+      "F_word": "la poignee, l'anse"
+    },
+    {
+      "D_word": "wechsel, wunhs, Ist gewachsen",
+      "F_word": "orolire, grandir"
+    },
+    {
+      "D_word": "die Haut, ®",
+      "F_word": "la peau"
+    },
+    {
+      "D_word": "der Knochen, » l",
+      "F_word": "os"
+    },
+    {
+      "D_word": "Kopf, ®",
+      "F_word": "la töte"
+    },
+    {
+      "D_word": "Eane Haar, ©",
+      "F_word": "le cheveu, la chevelure, le poil"
+    },
+    {
+      "D_word": "Sie hat braunes Haar / braune Haare, Elle a",
+      "F_word": "les cheveux chätain."
+    },
+    {
+      "D_word": "j die Stirn, en",
+      "F_word": "le front"
+    },
+    {
+      "D_word": "das Gesicht, er",
+      "F_word": "le visage, la figure"
+    },
+    {
+      "D_word": "das Auge, n",
+      "F_word": "l'oeil"
+    },
+    {
+      "D_word": "die Nase, n",
+      "F_word": "le nez"
+    },
+    {
+      "D_word": "das Ohr, en",
+      "F_word": "l'oreille"
+    },
+    {
+      "D_word": "der Mund, \"er",
+      "F_word": "la bouche"
+    },
+    {
+      "D_word": "die Lippe, n",
+      "F_word": "la levre"
+    },
+    {
+      "D_word": "der Zahn, \"e",
+      "F_word": "la dent"
+    },
+    {
+      "D_word": "die Zunge, n",
+      "F_word": "la langue"
+    },
+    {
+      "D_word": "die Zunge raus/strecken tirer",
+      "F_word": "la langue"
+    },
+    {
+      "D_word": "der Bart, ’e",
+      "F_word": "la barbe"
+    },
+    {
+      "D_word": "der Schnurrbart, \"e",
+      "F_word": "la moustache"
+    },
+    {
+      "D_word": "das Kinn, e",
+      "F_word": "le menton"
+    },
+    {
+      "D_word": "der Hals, 'e le",
+      "F_word": "cou ED"
+    },
+    {
+      "D_word": "atmen",
+      "F_word": "respirer Bi"
+    },
+    {
+      "D_word": "das Herz, ens, en",
+      "F_word": "le cosur a ="
+    },
+    {
+      "D_word": "der Bauch, \"e",
+      "F_word": "le ventre E"
+    },
+    {
+      "D_word": "der Magen, ” (2. Pl. Magen) \"",
+      "F_word": "estomac 4"
+    },
+    {
+      "D_word": "der Arm, e",
+      "F_word": "le bras '"
+    },
+    {
+      "D_word": "die Hand, \"e",
+      "F_word": "la main"
+    },
+    {
+      "D_word": "die Faust, \"e",
+      "F_word": "le poing 1"
+    },
+    {
+      "D_word": "der Finger",
+      "F_word": "le doigt"
+    },
+    {
+      "D_word": "der (Finger)Nagel, \"",
+      "F_word": "l'ongle i"
+    },
+    {
+      "D_word": "der Daumen",
+      "F_word": "le pouce {"
+    },
+    {
+      "D_word": "der Rücken",
+      "F_word": "le dos"
+    },
+    {
+      "D_word": "das Knie",
+      "F_word": "le genou j"
+    },
+    {
+      "D_word": "das Bein, e",
+      "F_word": "la jambe"
+    },
+    {
+      "D_word": "der Fuß, \"e",
+      "F_word": "le pied"
+    }
+  ],
+  "verbe": [
+    {
+      "inf": "abbiegen",
+      "prasens": "biegt ab",
+      "prateritum": "bog ab",
+      "perfekt": "abgebogen",
+      "fr": "tourner, obliquer"
+    },
+    {
+      "inf": "anbieten",
+      "prasens": "bietet an",
+      "prateritum": "bot an",
+      "perfekt": "angeboten",
+      "fr": "offrir, proposer"
+    },
+    {
+      "inf": "anfangen",
+      "prasens": "fängt an",
+      "prateritum": "fing an",
+      "perfekt": "angefangen",
+      "fr": "commencer"
+    },
+    {
+      "inf": "anziehen",
+      "prasens": "zieht an",
+      "prateritum": "zog an",
+      "perfekt": "angezogen",
+      "fr": "mettre (vêtement)"
+    },
+    {
+      "inf": "aufgeben",
+      "prasens": "gibt auf",
+      "prateritum": "gab auf",
+      "perfekt": "aufgegeben",
+      "fr": "abandonner"
+    },
+    {
+      "inf": "aufstehen",
+      "prasens": "steht auf",
+      "prateritum": "stand auf",
+      "perfekt": "aufgestanden",
+      "fr": "se lever"
+    },
+    {
+      "inf": "ausgeben",
+      "prasens": "gibt aus",
+      "prateritum": "gab aus",
+      "perfekt": "ausgegeben",
+      "fr": "dépenser (argent)"
+    },
+    {
+      "inf": "aussehen",
+      "prasens": "sieht aus",
+      "prateritum": "sah aus",
+      "perfekt": "ausgesehen",
+      "fr": "avoir l'air, ressembler"
+    },
+    {
+      "inf": "ausziehen (Forme I)",
+      "prasens": "zieht aus (Forme I)",
+      "prateritum": "zog aus (Forme I)",
+      "perfekt": "ausgezogen (Forme I)",
+      "fr": "enlever (vêtement)"
+    },
+    {
+      "inf": "ausziehen (Forme II)",
+      "prasens": "zieht aus (Forme II)",
+      "prateritum": "zog aus (Forme II)",
+      "perfekt": "ausgezogen (Forme II)",
+      "fr": "déménager"
+    },
+    {
+      "inf": "backen",
+      "prasens": "backt/bäckt",
+      "prateritum": "backte/buk",
+      "perfekt": "gebacken",
+      "fr": "faire cuire au four (pâtisserie)"
+    },
+    {
+      "inf": "sich befinden",
+      "prasens": "befindet sich",
+      "prateritum": "befand sich",
+      "perfekt": "sich befunden",
+      "fr": "se trouver"
+    },
+    {
+      "inf": "beginnen",
+      "prasens": "beginnt",
+      "prateritum": "begann",
+      "perfekt": "begonnen",
+      "fr": "commencer"
+    },
+    {
+      "inf": "beißen",
+      "prasens": "beißt",
+      "prateritum": "biss",
+      "perfekt": "gebissen",
+      "fr": "mordre"
+    },
+    {
+      "inf": "bekommen",
+      "prasens": "bekommt",
+      "prateritum": "bekam",
+      "perfekt": "bekommen",
+      "fr": "recevoir"
+    },
+    {
+      "inf": "beschreiben",
+      "prasens": "beschreibt",
+      "prateritum": "beschrieb",
+      "perfekt": "beschrieben",
+      "fr": "décrire"
+    },
+    {
+      "inf": "sich bewerben",
+      "prasens": "bewirbt sich",
+      "prateritum": "bewarb sich",
+      "perfekt": "sich beworben",
+      "fr": "postuler"
+    },
+    {
+      "inf": "bitten",
+      "prasens": "bittet",
+      "prateritum": "bat",
+      "perfekt": "gebeten",
+      "fr": "prier, demander (poliment)"
+    },
+    {
+      "inf": "bleiben",
+      "prasens": "bleibt",
+      "prateritum": "blieb",
+      "perfekt": "geblieben",
+      "fr": "rester"
+    },
+    {
+      "inf": "brennen",
+      "prasens": "brennt",
+      "prateritum": "brannte",
+      "perfekt": "gebrannt",
+      "fr": "brûler"
+    },
+    {
+      "inf": "bringen",
+      "prasens": "bringt",
+      "prateritum": "brachte",
+      "perfekt": "gebracht",
+      "fr": "amener, apporter"
+    },
+    {
+      "inf": "denken",
+      "prasens": "denkt",
+      "prateritum": "dachte",
+      "perfekt": "gedacht",
+      "fr": "penser"
+    },
+    {
+      "inf": "dürfen",
+      "prasens": "darf",
+      "prateritum": "durfte",
+      "perfekt": "gedurft",
+      "fr": "avoir le droit"
+    },
+    {
+      "inf": "einladen",
+      "prasens": "lädt ein",
+      "prateritum": "lud ein",
+      "perfekt": "eingeladen",
+      "fr": "inviter"
+    },
+    {
+      "inf": "empfehlen",
+      "prasens": "empfiehlt",
+      "prateritum": "empfahl",
+      "perfekt": "empfohlen",
+      "fr": "recommander, conseiller"
+    },
+    {
+      "inf": "entscheiden",
+      "prasens": "entscheidet",
+      "prateritum": "entschied",
+      "perfekt": "entschieden",
+      "fr": "décider"
+    },
+    {
+      "inf": "erfahren",
+      "prasens": "erfährt",
+      "prateritum": "erfuhr",
+      "perfekt": "erfahren",
+      "fr": "apprendre (une nouvelle)"
+    },
+    {
+      "inf": "erziehen",
+      "prasens": "erzieht",
+      "prateritum": "erzog",
+      "perfekt": "erzogen",
+      "fr": "éduquer"
+    },
+    {
+      "inf": "essen",
+      "prasens": "isst",
+      "prateritum": "aß",
+      "perfekt": "gegessen",
+      "fr": "manger"
+    },
+    {
+      "inf": "fahren",
+      "prasens": "fährt",
+      "prateritum": "fuhr",
+      "perfekt": "gefahren",
+      "fr": "aller (en véhicule)"
+    },
+
+    {
+      "inf": "fallen",
+      "prasens": "fällt",
+      "prateritum": "fiel",
+      "perfekt": "gefallen",
+      "fr": "tomber"
+    },
+    {
+      "inf": "fangen",
+      "prasens": "fängt",
+      "prateritum": "fing",
+      "perfekt": "gefangen",
+      "fr": "attraper, saisir"
+    },
+    {
+      "inf": "fernsehen",
+      "prasens": "sieht fern",
+      "prateritum": "sah fern",
+      "perfekt": "ferngesehen",
+      "fr": "regarder la télévision"
+    },
+    {
+      "inf": "finden",
+      "prasens": "findet",
+      "prateritum": "fand",
+      "perfekt": "gefunden",
+      "fr": "trouver"
+    },
+    {
+      "inf": "fliegen",
+      "prasens": "fliegt",
+      "prateritum": "flog",
+      "perfekt": "geflogen",
+      "fr": "voler (avion, oiseau)"
+    },
+    {
+      "inf": "fliehen",
+      "prasens": "flieht",
+      "prateritum": "floh",
+      "perfekt": "geflohen",
+      "fr": "fuir"
+    },
+    {
+      "inf": "fließen",
+      "prasens": "fließt",
+      "prateritum": "floss",
+      "perfekt": "geflossen",
+      "fr": "couler"
+    },
+    {
+      "inf": "fressen",
+      "prasens": "frisst",
+      "prateritum": "fraß",
+      "perfekt": "gefressen",
+      "fr": "bouffer, manger (animaux)"
+    },
+    {
+      "inf": "frieren",
+      "prasens": "friert",
+      "prateritum": "fror",
+      "perfekt": "gefroren",
+      "fr": "geler, avoir froid"
+    },
+    {
+      "inf": "geben",
+      "prasens": "gibt",
+      "prateritum": "gab",
+      "perfekt": "gegeben",
+      "fr": "donner"
+    },
+    {
+      "inf": "gefallen",
+      "prasens": "gefällt",
+      "prateritum": "gefiel",
+      "perfekt": "gefallen",
+      "fr": "plaire"
+    },
+    {
+      "inf": "gehen",
+      "prasens": "geht",
+      "prateritum": "ging",
+      "perfekt": "gegangen",
+      "fr": "aller (à pied)"
+    },
+    {
+      "inf": "geschehen",
+      "prasens": "geschieht",
+      "prateritum": "geschah",
+      "perfekt": "geschehen",
+      "fr": "arriver, se passer"
+    },
+    {
+      "inf": "gewinnen",
+      "prasens": "gewinnt",
+      "prateritum": "gewann",
+      "perfekt": "gewonnen",
+      "fr": "gagner"
+    },
+    {
+      "inf": "gießen",
+      "prasens": "gießt",
+      "prateritum": "goss",
+      "perfekt": "gegossen",
+      "fr": "verser, arroser"
+    },
+    {
+      "inf": "haben",
+      "prasens": "hat",
+      "prateritum": "hatte",
+      "perfekt": "gehabt",
+      "fr": "avoir"
+    },
+    {
+      "inf": "halten",
+      "prasens": "hält",
+      "prateritum": "hielt",
+      "perfekt": "gehalten",
+      "fr": "tenir, s'arrêter"
+    },
+    {
+      "inf": "hängen",
+      "prasens": "hängt",
+      "prateritum": "hing",
+      "perfekt": "gehangen",
+      "fr": "être suspendu, être accroché"
+    },
+    {
+      "inf": "heben",
+      "prasens": "hebt",
+      "prateritum": "hob",
+      "perfekt": "gehoben",
+      "fr": "lever"
+    },
+    {
+      "inf": "heißen",
+      "prasens": "heißt",
+      "prateritum": "hieß",
+      "perfekt": "geheißen",
+      "fr": "s'appeler"
+    },
+    {
+      "inf": "helfen",
+      "prasens": "hilft",
+      "prateritum": "half",
+      "perfekt": "geholfen",
+      "fr": "aider"
+    },
+    {
+      "inf": "kennen",
+      "prasens": "kennt",
+      "prateritum": "kannte",
+      "perfekt": "gekannt",
+      "fr": "connaître"
+    },
+    {
+      "inf": "kommen",
+      "prasens": "kommt",
+      "prateritum": "kam",
+      "perfekt": "gekommen",
+      "fr": "venir"
+    },
+    {
+      "inf": "können",
+      "prasens": "kann",
+      "prateritum": "konnte",
+      "perfekt": "gekonnt",
+      "fr": "pouvoir, savoir"
+    },
+    {
+      "inf": "lassen",
+      "prasens": "lässt",
+      "prateritum": "ließ",
+      "perfekt": "gelassen",
+      "fr": "laisser"
+    },
+    {
+      "inf": "laufen",
+      "prasens": "läuft",
+      "prateritum": "lief",
+      "perfekt": "gelaufen",
+      "fr": "aller, courir"
+    },
+    {
+      "inf": "leiden",
+      "prasens": "leidet",
+      "prateritum": "litt",
+      "perfekt": "gelitten",
+      "fr": "souffrir"
+    },
+    {
+      "inf": "leihen",
+      "prasens": "leiht",
+      "prateritum": "lieh",
+      "perfekt": "geliehen",
+      "fr": "prêter"
+    },
+    {
+      "inf": "lesen",
+      "prasens": "liest",
+      "prateritum": "las",
+      "perfekt": "gelesen",
+      "fr": "lire"
+    },
+    {
+      "inf": "liegen",
+      "prasens": "liegt",
+      "prateritum": "lag",
+      "perfekt": "gelegen",
+      "fr": "être allongé, posé, situé"
+    },
+    {
+      "inf": "lügen",
+      "prasens": "lügt",
+      "prateritum": "log",
+      "perfekt": "gelogen",
+      "fr": "mentir"
+    }
+  ]
+}

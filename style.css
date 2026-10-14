@@ -1,0 +1,94 @@
+/* Réinitialisation */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style général */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Titre */
+.verbe {
+  color: white;
+  font-size: 42px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+/* Champ de saisie */
+.input {
+  width: 300px;
+  max-width: 100%;
+  padding: 14px 18px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  background-color: white;
+  color: #333;
+  font-size: 16px;
+  outline: none;
+  transition:
+    border-color 0.3s,
+    box-shadow 0.3s;
+}
+
+/* Effet au clic sur l'input */
+.input:focus {
+  border-color: #ffd166;
+  box-shadow: 0 0 10px rgba(255, 209, 102, 0.5);
+}
+
+/* Bouton */
+.btn {
+  padding: 14px 30px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffd166;
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    transform 0.2s;
+}
+
+/* Effet au survol */
+.btn:hover {
+  background-color: #ffbd35;
+  transform: translateY(-2px);
+}
+
+/* Effet au clic */
+.btn:active {
+  transform: scale(0.97);
+}
+
+/* Adaptation aux petits écrans */
+@media (max-width: 400px) {
+  .verbe {
+    font-size: 32px;
+  }
+
+  .input {
+    width: 100%;
+  }
+}
+.right {
+  color: green;
+}
+.false {
+  color: red;
+}

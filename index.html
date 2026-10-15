@@ -9,7 +9,32 @@
   <body>
     <h1 class="verbe">Verbe</h1>
     <input type="text" class="input" />
-    <button class="btn">submit</button>
+    <div class="btn">
+      <button class="submit_btn">Submit</button>
+      <button class="refresh_btn">Next ></button>
+    </div>
+
+    <div class="min_range">
+      <input
+        type="range"
+        name="min_range"
+        class="min_range__input"
+        step="5"
+        min="0"
+        max="60"
+        value="0"
+      /><span class="min_range__value">0</span>
+    </div>
+    <div class="max_range">
+      <input
+        type="range"
+        class="max_range__input"
+        step="5"
+        min="1"
+        max="61"
+        value="10"
+      /><span class="max_range__value">10</span>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>
